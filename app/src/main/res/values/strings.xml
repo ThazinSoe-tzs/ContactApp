@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContactThrymrSystemTest</string>
+    <string name="tab_contact">Contacts</string>
+    <string name="tab_call">Recents</string>
+    <string name="tab_fav">Fav</string>
+    <string name="tab_new_content">Add New</string>
+</resources>
