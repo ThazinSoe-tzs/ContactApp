@@ -1,4 +1,4 @@
-package com.example.contactthrymrsystemtest;
+package com.example.contact;
 
 import java.io.Serializable;
 

@@ -1,4 +1,4 @@
-package com.example.contactthrymrsystemtest.ui.main.activity;
+package com.example.contact.ui.main.activity;
 
 import android.Manifest;
 import android.content.pm.PackageManager;
@@ -9,8 +9,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.ActivityCompat;
 import androidx.viewpager.widget.ViewPager;
 
-import com.example.contactthrymrsystemtest.R;
-import com.example.contactthrymrsystemtest.ui.main.adapter.SectionsPagerAdapter;
+import com.example.contact.R;
+import com.example.contact.ui.main.adapter.SectionsPagerAdapter;
 import com.google.android.material.tabs.TabLayout;
 
 public class MainActivity extends AppCompatActivity implements ActivityCompat.OnRequestPermissionsResultCallback{

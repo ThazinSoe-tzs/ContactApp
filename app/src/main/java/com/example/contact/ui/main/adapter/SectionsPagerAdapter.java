@@ -1,4 +1,4 @@
-package com.example.contactthrymrsystemtest.ui.main.adapter;
+package com.example.contact.ui.main.adapter;
 
 import android.content.Context;
 
@@ -8,11 +8,11 @@ import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentPagerAdapter;
 
-import com.example.contactthrymrsystemtest.R;
-import com.example.contactthrymrsystemtest.ui.main.fragment.RegisterContactFragment;
-import com.example.contactthrymrsystemtest.ui.main.fragment.ContactListFragment;
-import com.example.contactthrymrsystemtest.ui.main.fragment.FavouriteListFragment;
-import com.example.contactthrymrsystemtest.ui.main.fragment.RecentListFragment;
+import com.example.contact.R;
+import com.example.contact.ui.main.fragment.RegisterContactFragment;
+import com.example.contact.ui.main.fragment.ContactListFragment;
+import com.example.contact.ui.main.fragment.FavouriteListFragment;
+import com.example.contact.ui.main.fragment.RecentListFragment;
 
 /**
  * A [FragmentPagerAdapter] that returns a fragment corresponding to

@@ -1,4 +1,4 @@
-package com.example.contactthrymrsystemtest.ui.main.fragment;
+package com.example.contact.ui.main.fragment;
 
 import android.app.DatePickerDialog;
 import android.os.Bundle;
@@ -14,10 +14,10 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProviders;
 
-import com.example.contactthrymrsystemtest.Contact;
-import com.example.contactthrymrsystemtest.R;
-import com.example.contactthrymrsystemtest.ui.main.model.PageViewModel;
-import com.example.contactthrymrsystemtest.ui.main.database.DBHelper;
+import com.example.contact.Contact;
+import com.example.contact.R;
+import com.example.contact.ui.main.model.PageViewModel;
+import com.example.contact.ui.main.database.DBHelper;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;

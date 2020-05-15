@@ -1,4 +1,4 @@
-package com.example.contactthrymrsystemtest.ui.main.adapter;
+package com.example.contact.ui.main.adapter;
 
 import android.Manifest;
 import android.content.Context;
@@ -15,9 +15,9 @@ import android.widget.Toast;
 import androidx.core.app.ActivityCompat;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.contactthrymrsystemtest.Contact;
-import com.example.contactthrymrsystemtest.R;
-import com.example.contactthrymrsystemtest.ui.main.database.DBHelper;
+import com.example.contact.Contact;
+import com.example.contact.R;
+import com.example.contact.ui.main.database.DBHelper;
 
 import java.util.ArrayList;
 

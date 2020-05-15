@@ -1,4 +1,4 @@
-package com.example.contactthrymrsystemtest.ui.main.database;
+package com.example.contact.ui.main.database;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -7,7 +7,7 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.util.Log;
 
-import com.example.contactthrymrsystemtest.Contact;
+import com.example.contact.Contact;
 
 import java.util.ArrayList;
 

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ContactThrymrSystemTest</string>
+    <string name="app_name">Phone Contact</string>
     <string name="tab_contact">Contacts</string>
     <string name="tab_call">Recents</string>
     <string name="tab_fav">Fav</string>

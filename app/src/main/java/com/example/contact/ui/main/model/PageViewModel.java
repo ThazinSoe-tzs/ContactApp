@@ -1,4 +1,4 @@
-package com.example.contactthrymrsystemtest.ui.main.model;
+package com.example.contact.ui.main.model;
 
 import androidx.arch.core.util.Function;
 import androidx.lifecycle.LiveData;

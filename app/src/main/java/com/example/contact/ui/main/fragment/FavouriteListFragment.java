@@ -1,4 +1,4 @@
-package com.example.contactthrymrsystemtest.ui.main.fragment;
+package com.example.contact.ui.main.fragment;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -11,11 +11,11 @@ import androidx.lifecycle.ViewModelProviders;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.contactthrymrsystemtest.Contact;
-import com.example.contactthrymrsystemtest.R;
-import com.example.contactthrymrsystemtest.ui.main.model.PageViewModel;
-import com.example.contactthrymrsystemtest.ui.main.adapter.CustomAdapterForRecyclerView;
-import com.example.contactthrymrsystemtest.ui.main.database.DBHelper;
+import com.example.contact.Contact;
+import com.example.contact.R;
+import com.example.contact.ui.main.model.PageViewModel;
+import com.example.contact.ui.main.adapter.CustomAdapterForRecyclerView;
+import com.example.contact.ui.main.database.DBHelper;
 
 import java.util.ArrayList;
 
